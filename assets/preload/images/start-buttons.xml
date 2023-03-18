@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="start-buttons.png"><SubTexture name="freeplay0000" x="0" y="143" width="413" height="136" frameX="0" frameY="0" frameWidth="413" frameHeight="136" />
+<SubTexture name="freeplay-select0000" x="0" y="0" width="436" height="143" frameX="0" frameY="0" frameWidth="436" frameHeight="143" />
+<SubTexture name="more0000" x="436" y="236" width="234" height="98" frameX="0" frameY="0" frameWidth="234" frameHeight="98" />
+<SubTexture name="more-select0000" x="436" y="125" width="258" height="111" frameX="0" frameY="0" frameWidth="258" frameHeight="111" />
+<SubTexture name="story0000" x="436" y="0" width="278" height="125" frameX="0" frameY="0" frameWidth="278" frameHeight="125" />
+<SubTexture name="story-select0000" x="0" y="279" width="308" height="133" frameX="0" frameY="0" frameWidth="308" frameHeight="133" />
+</TextureAtlas>
